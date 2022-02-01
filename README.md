@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 I'm a final year student at Indian Institute of Technology Kharagpur pursuing a major in Computer Science and Engineering. I'm a **Competitive Coder**, **Blockchain Developer**, **Web Developer**. I also write blogs on various technical topics: https://algoshots.herokuapp.com/.
 
+- 🧐 I’m currently exploring systems in my Operating Systems course and otherwise.
 - 🔭 I develop full stack applications using Django or Java.
-- 🌱 In love with C/C++ and Linux.
+- 🌱 In love with C/C++ and Linux. 
 - 💬 Open for discussion on any Tech Stack(motive is exchange of knowledge). 
 - 📫 How to reach me: ajay.cse.iitkgp@gmail.com
 - 😄 Pronouns: He/Him.
