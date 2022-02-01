@@ -51,10 +51,5 @@ I'm a final year student at Indian Institute of Technology Kharagpur pursuing a 
     <img align="left" alt="Ajay Kumar | Linkedin" height="50" width="50" src="https://github.com/gilbarbara/logos/blob/master/logos/linkedin-icon.svg" />
   </a>
   <a href="https://codeforces.com/profile/Lelouch_vi_Britannia">
-    <img align="left" alt="ajaykumarr123 | Instagram" height="50" width="50" src="https://github.com/ajaykumarr123/ajaykumarr123/blob/main/code-forces.svg" />
+    <img align="left" alt="ajaykumarr123 | Codeforces" height="50" width="50" src="https://github.com/ajaykumarr123/ajaykumarr123/blob/main/code-forces.svg" />
   </a>
-  <a href="https://www.instagram.com/ajaykumarr123/?hl=en">
-    <img align="left" alt="ajaykumarr123 | Instagram" height="50" width="50" src="https://github.com/gilbarbara/logos/blob/master/logos/instagram-icon.svg" />
-  </a>
-  
-  
