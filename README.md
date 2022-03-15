@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 
-I'm a final year student at Indian Institute of Technology Kharagpur pursuing a major in Computer Science and Engineering. I'm a **Competitive Coder**, **Blockchain Developer**, **Web Developer**. I also write blogs on various technical topics: https://algoshots.herokuapp.com/.
+I'm a prefinal year student at Indian Institute of Technology Kharagpur pursuing a major in Computer Science and Engineering. I'm a **Competitive Coder**, **Blockchain Developer**, **Web Developer**. I also write blogs on various technical topics: https://algoshots.herokuapp.com/.
 
 - 🧐 I’m currently exploring systems.
 - 🌱 In love with C/C++ and Linux. 
