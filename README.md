@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!-- ## 🧐 About
  -->
 
-## 👋 ✨ Hi, I'm Ajay<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="40px" width="40px">
+## 👋 ✨ Hi, I'm Ajay<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="35px" width="35px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 
-I'm a prefinal year student at Indian Institute of Technology Kharagpur pursuing a major in Computer Science and Engineering. I'm a **Competitive Coder**, **Blockchain Developer**, **Web Developer**. I also write blogs on various technical topics: https://algoshots.herokuapp.com/.
+I'm a prefinal year student at Indian Institute of Technology Kharagpur pursuing a major in Computer Science and Engineering. I'm a **Competitive Coder**, **Web Developer**. I also write blogs on various technical topics: [Algoshots](https://algoshots.herokuapp.com/)
 
 - 🧐 I’m currently exploring systems.
 - 🌱 In love with C/C++ and Linux. 
