@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- ## 🧐 About
  -->
 
-## 👋 ✨ Hi, I'm Ajay<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+## 👋 ✨ Hi, I'm Ajay<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="40px" width="40px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 
