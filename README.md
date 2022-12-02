@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 👋 ✨ Hi, I'm Ajay<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="35px" width="35px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
-I'm a final-year student at Indian Institute of Technology, Kharagpur pursuing a major in Computer Science and Engineering. I'm interested in software development and love to tackle challenging problems in a fast-paced environment.
+I'm a final-year student at Indian Institute of Technology, Kharagpur pursuing a major in Computer Science and Engineering. I'm interested in software development and love to tackle challenging problems.
 
 - 🧐 I’m currently exploring systems.
 - 🌱 In love with C/C++ and Linux. 
