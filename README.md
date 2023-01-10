@@ -32,16 +32,16 @@ I'm a final-year student at Indian Institute of Technology, Kharagpur pursuing a
 
 ## ⚔️ Tech Stack
 <br>
-    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg"></code>
-    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg"></code>
-    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg"></code>
-    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg"></code>
-    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/django-icon.svg"></code>
-    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg"></code>
-<!--     <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/react.svg"></code> -->
-<!--     <code><img height="50" src="https://github.com/jhipster/jhipster.github.io/blob/master/images/logo/svg/spring-boot.svg"></code> -->
-    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/mysql.svg"></code>
-    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/linux-tux.svg"></code>
+    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/main/logos/c.svg"></code>
+    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/main/logos/c-plusplus.svg"></code>
+    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg"></code>
+    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg"></code>
+    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/main/logos/django-icon.svg"></code>
+    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg"></code>
+<!--     <code><img height="50" src="https://github.com/gilbarbara/logos/blob/main/logos/react.svg"></code> -->
+<!--     <code><img height="50" src="https://github.com/jhipster/jhipster.github.io/blob/main/images/logo/svg/spring-boot.svg"></code> -->
+    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/main/logos/mysql.svg"></code>
+    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/main/logos/linux-tux.svg"></code>
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br><br>
@@ -49,7 +49,7 @@ I'm a final-year student at Indian Institute of Technology, Kharagpur pursuing a
 ## 💬 Let's Connect
     
 <a href="https://www.linkedin.com/in/ajaykumarr123/">
-    <img align="left" alt="Ajay Kumar | Linkedin" height="50" width="50" src="https://github.com/gilbarbara/logos/blob/master/logos/linkedin-icon.svg" />
+    <img align="left" alt="Ajay Kumar | Linkedin" height="50" width="50" src="https://github.com/gilbarbara/logos/blob/main/logos/linkedin-icon.svg" />
   </a>
   <a href="https://codeforces.com/profile/Lelouch_vi_Britannia">
     <img align="left" alt="ajaykumarr123 | Codeforces" height="50" width="50" src="https://github.com/ajaykumarr123/ajaykumarr123/blob/main/code-forces.svg" />
