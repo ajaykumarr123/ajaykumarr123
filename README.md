@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 I'm a final-year student at Indian Institute of Technology, Kharagpur pursuing a major in Computer Science and Engineering. I'm interested in software development and love to tackle challenging problems.
 
-- 🧐 I’m currently exploring Backend, Systems.
+- 🧐 I’m currently exploring Backend Dev, Operating Systems.
 - 🌱 In love with C/C++, Python, and Linux. 
 - 🔭 I've developed full stack applications using Django or Java.
 - 💬 Open for discussion on any Tech Stack(motive is exchange of knowledge).
